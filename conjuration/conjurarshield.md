@@ -1,6 +1,7 @@
 # feitiço - _shield_ (conjuração) :shield:
 
-Concentrar-se em seu enérgico elemental principal
+### Concentrar-se em seu enérgico elemental principal
+
 Podendo ser: **água**, **terra**, **fogo** para proteção. 
 
 
